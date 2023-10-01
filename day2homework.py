@@ -31,7 +31,7 @@ def studentIndexList():
 
 
 
-def studentMultipleAdd():  
+def studentMultipleRemove():  
     i=0
     while True:
         x = int(input("Silinecek öğrenci sayısı:"))

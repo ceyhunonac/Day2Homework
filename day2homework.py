@@ -59,4 +59,4 @@ print("---------------5---------------")
 studentIndexList()
 
 print("---------------6---------------")
-studentMultipleAdd()
+studentMultipleRemove()
